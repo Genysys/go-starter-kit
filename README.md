@@ -96,7 +96,7 @@ The client app will be compiled into `server/data/static/build/`.  Then it will 
 Clone the repo:
 
 ```
-$ git clone git@github.com:olebedev/go-starter-kit.git $GOPATH/src/github.com/<username>/<project>
+$ git clone https://github.com/olebedev/go-starter-kit $GOPATH/src/github.com/<username>/<project>
 $ cd $GOPATH/src/github.com/<username>/<project>
 ```
 
